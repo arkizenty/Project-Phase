@@ -3,3 +3,5 @@ index.htm
 index_htm_files/35.png
 index_htm_files/35@2x.png
 index_htm_files/36.png
+index_htm_files/40.jpg
+index_htm_files/40@2x.jpg
